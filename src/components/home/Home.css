@@ -1,0 +1,25 @@
+.home_navi {
+  display: flex;
+  flex-direction: row;
+}
+
+.home_navi_links {
+  background-color: lightskyblue;
+  color: black;
+  text-decoration: none;
+  margin-left: 5em;
+  margin-right: 5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  border-radius: 0.3em;
+  font-family: sans-serif;
+  font-style: normal;
+}
+
+.home_navi_logout {
+  font-family: sans-serif;
+  border: 0pt;
+  background-color: lightskyblue;
+}

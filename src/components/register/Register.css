@@ -1,0 +1,28 @@
+.register_form {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.register_form_username {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.register_form_password {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.register_form_comfirm_password {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.register_form_submit {
+  margin: auto;
+}
